@@ -110,3 +110,6 @@ python src/Data.py
 # Обучение модели и генерация отчётов
 python src/train_model.py
 ```
+
+## Для выгрузки данных из таблиц (СУБД PostgreSQL) использовать скрипт 
+src/sql_sqript.sql
